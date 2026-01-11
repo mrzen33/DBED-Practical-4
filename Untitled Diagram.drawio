@@ -61,6 +61,12 @@
             <mxPoint x="520" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BOIqGO3zzur7CoIKwzCv-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot;&gt;Input Query&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="610" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="BOIqGO3zzur7CoIKwzCv-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot;&gt;Output Response&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="610" y="320" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
