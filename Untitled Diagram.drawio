@@ -25,6 +25,9 @@
         <mxCell id="BOIqGO3zzur7CoIKwzCv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#b0e3e6;strokeColor=#0e8088;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot;&gt;RAG-style Text Injection&lt;/p&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="460" y="230" as="geometry" />
         </mxCell>
+        <mxCell id="BOIqGO3zzur7CoIKwzCv-15" edge="1" parent="1" source="BOIqGO3zzur7CoIKwzCv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BOIqGO3zzur7CoIKwzCv-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BOIqGO3zzur7CoIKwzCv-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot;&gt;Key-Value Attention Hook&lt;/p&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="460" y="370" as="geometry" />
         </mxCell>
@@ -50,6 +53,12 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="435" y="389.67" as="sourcePoint" />
             <mxPoint x="460" y="389.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BOIqGO3zzur7CoIKwzCv-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BOIqGO3zzur7CoIKwzCv-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="519.6" y="270" as="sourcePoint" />
+            <mxPoint x="520" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
