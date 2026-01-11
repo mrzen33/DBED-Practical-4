@@ -23,7 +23,7 @@
           <mxGeometry height="80" width="80" x="320" y="280" as="geometry" />
         </mxCell>
         <mxCell id="BOIqGO3zzur7CoIKwzCv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#b0e3e6;strokeColor=#0e8088;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot;&gt;RAG-style Text Injection&lt;/p&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="440" y="240" as="geometry" />
+          <mxGeometry height="40" width="120" x="440" y="230" as="geometry" />
         </mxCell>
         <mxCell id="BOIqGO3zzur7CoIKwzCv-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal;&quot;&gt;Key-Value Attention Hook&lt;/p&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="440" y="370" as="geometry" />
